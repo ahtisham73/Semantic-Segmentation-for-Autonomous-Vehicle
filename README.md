@@ -3,7 +3,14 @@
 ![U-Net](https://img.shields.io/badge/Model-U--Net-blue.svg)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)
+![MATLAB](https://img.shields.io/badge/Annotation-MATLAB%20Image%20Labeler-purple)
+![Keras](https://img.shields.io/badge/Library-Keras-red)
+
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-green)
+![NumPy](https://img.shields.io/badge/Library-NumPy-lightgrey)
+![Pandas](https://img.shields.io/badge/Library-Pandas-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 📜 Introduction
 Semantic segmentation is a crucial computer vision task that assigns a class label to each pixel in an image, enabling precise scene understanding. Specifically, semantic segmentation partitions an image into meaningful segments, where each pixel is classified into a specific category. This project focuses on segmenting urban driving scenes using the CamVid dataset, leveraging deep learning techniques for enhanced accuracy. By utilizing the U-Net architecture, the model efficiently captures both spatial and contextual information, ensuring high-quality segmentation results. Advanced training strategies and data augmentation further improve robustness and generalization. It is widely applied in autonomous driving for object recognition and medical imaging for detecting anomalies.
