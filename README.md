@@ -147,7 +147,6 @@ prediction = np.argmax(y_out, axis=3)[0]
 
 ### 🎨 Visualization of Results
 
-|-----------------------------------------------------|---------------------------------------------------|-------------------------------------------------|
 
  ![Input,Ground Truth and Preduiction](Images/1.jpg) 
  
