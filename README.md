@@ -166,7 +166,7 @@ The **U-Net model** demonstrated exceptional performance in segmenting urban dri
 ## 🚀 Installation & Usage
 ### 📥 Clone Repository
 ```bash
-git clone https://github.com/ahtisham73/SemanticSegmentation.git
+git clone https://github.com/ahtisham73/Semantic-Segmentation-for-Autonomous-Vehicle.git
 cd semantic-segmentation-camvid
 ```
 ### 📦 Install Dependencies
