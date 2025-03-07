@@ -1,4 +1,4 @@
-# 🎨🧩 Semantic Segmentation for Autonomous Vehicle
+# 👁️‍🗨️🎨 Semantic Segmentation for Autonomous Vehicle
 
 ![U-Net](https://img.shields.io/badge/Model-U--Net-blue.svg)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
