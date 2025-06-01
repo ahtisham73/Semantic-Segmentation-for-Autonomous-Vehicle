@@ -64,10 +64,13 @@ Imagine an autonomous car driving through a city. It captures an image with cars
 
 ## 📷 CamVid Dataset Overview
 
-- **Source**: Extracted from urban driving videos.
+
+- **Source**: The data used for semantic Segmentation is CamVid Dataset. The dataset has 367 Training images, 101 Validation images and 232 Test images.
+- **Link**: https://www.kaggle.com/carlolepelaars/camvid 
 - **Classes**: 32 (e.g., cars, pedestrians, roads, trees).
 - **Images**: 701 labeled frames.
 - **Resolution**: 720×960 pixels.
+
 
 📸 **Example**:  
 ![CamVid Dataset](Images/camvid_original_dataset.png)  
