@@ -14,7 +14,6 @@ A **deep learning** project using the **U-Net** architecture to perform semantic
 ![NumPy](https://img.shields.io/badge/NumPy-Library-lightgrey?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-Library-blue?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Image_Labeler-purple?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
@@ -36,11 +35,10 @@ Semantic-Segmentation-for-Autonomous-Vehicle/
 │   ├── model.py
 │   └── utils.py
 ├── config.py
-├── read.txt
 ├── test.py
 ├── train.py
 ├── LICENSE
-└── README.md
+└── README.markdown
 ```
 
 ---
